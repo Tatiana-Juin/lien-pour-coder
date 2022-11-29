@@ -16,7 +16,7 @@ h2{
 
 
 /* Bouton  */
-.toggl-track, .pocket, .scribzee,.google-podcast,.twitter, .canva, .meta-business-suite,.creator-studio{
+.toggl-track, .pocket, .scribzee,.notion,.twitter, .trello, .figma,.creator-studio{
     text-decoration:none;
     font-size:20px;
     border-style: solid;
@@ -35,20 +35,20 @@ h2{
 
 /* Smartphone */
 @media screen and (max-width:600px){
-    .toggl-track,.pocket,.scribzee,.google-podcast,.twitter,.canva,.meta-business-suite,.creator-studio{
+    .toggl-track,.pocket,.scribzee,.notion,.twitter,.trello,.figma,.creator-studio{
         width:90%;
     }
 }
 
 @media screen and (min-width:601px) and (max-width:720px){
-    .toggl-track,.pocket,.scribzee,.google-podcast,.twitter,.canva,.meta-business-suite,.creator-studio{
+    .toggl-track,.pocket,.scribzee,.notion,.twitter,.trello,.figma,.creator-studio{
         width:70%;
     }
 }
 
 /* Tablette */
 @media screen and (min-width:721px) and (max-width:1023px){
-    .toggl-track,.pocket,.scribzee,.google-podcast,.twitter,.canva,.meta-business-suite,.creator-studio{
+    .toggl-track,.pocket,.scribzee,.notion,.twitter,.trello,.figma,.creator-studio{
         width:55%;
     }
 }
